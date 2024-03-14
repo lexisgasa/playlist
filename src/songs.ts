@@ -1,7 +1,7 @@
 export const isTitleEmpty = (songTitle: string): boolean => {
   let isEmpty: boolean;
   // Asígnale a la variable isEmpty un true o un false dependiendo de si
-  // la variable title recibida tiene un string vacío o no
+  // la variable songTitle recibida tiene un string vacío o no
 
   isEmpty = true; // Cambia esta línea por tu código
 
